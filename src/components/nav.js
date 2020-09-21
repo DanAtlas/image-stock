@@ -12,7 +12,7 @@ class Navbar extends Component {
       <header>
         <div className="container">
           <nav>
-            <NavLink className="logo" exact to="/">
+            <NavLink className="logo" exact to="/image-stock/">
               <img src={logo} alt="logo"/>
               <span>ImageStock</span>
             </NavLink>

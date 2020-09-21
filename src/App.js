@@ -42,7 +42,7 @@ function App() {
           <button type="submit">search</button>
         </form> */}
         <Switch>
-          <Route exact path="/" render={() => <Home title="Home"/>} />
+          <Route exact path="/image-stock/" render={() => <Home title="Home"/>} />
           <Route path="/search"  render={() => <Search title="Search"/>} />
           <Route path="/history" render={() => <History title="History"/>} />
           <Route path="/fav" render={() => <Fav title="Favorite"/>} />
