@@ -2,7 +2,7 @@
   "name": "image-stock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "image-stock.netlify.app",
+  "homepage": "https://image-stock.netlify.app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
