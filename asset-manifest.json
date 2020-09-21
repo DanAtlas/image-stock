@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.73f3c5b6.chunk.css",
-    "main.js": "/static/js/main.cfd67fb5.chunk.js",
-    "main.js.map": "/static/js/main.cfd67fb5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.97773ce4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.97773ce4.js.map",
-    "static/js/2.baf51eaa.chunk.js": "/static/js/2.baf51eaa.chunk.js",
-    "static/js/2.baf51eaa.chunk.js.map": "/static/js/2.baf51eaa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.96d90da5763a497230fefb510dd9f505.js": "/precache-manifest.96d90da5763a497230fefb510dd9f505.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.73f3c5b6.chunk.css.map": "/static/css/main.73f3c5b6.chunk.css.map",
-    "static/js/2.baf51eaa.chunk.js.LICENSE.txt": "/static/js/2.baf51eaa.chunk.js.LICENSE.txt",
-    "static/media/cam_dark.svg": "/static/media/cam_dark.97c69532.svg",
-    "static/media/cam_white.svg": "/static/media/cam_white.1182b96f.svg"
+    "main.css": "/image-stock/static/css/main.73f3c5b6.chunk.css",
+    "main.js": "/image-stock/static/js/main.983d3fe7.chunk.js",
+    "main.js.map": "/image-stock/static/js/main.983d3fe7.chunk.js.map",
+    "runtime-main.js": "/image-stock/static/js/runtime-main.b9510ea7.js",
+    "runtime-main.js.map": "/image-stock/static/js/runtime-main.b9510ea7.js.map",
+    "static/js/2.baf51eaa.chunk.js": "/image-stock/static/js/2.baf51eaa.chunk.js",
+    "static/js/2.baf51eaa.chunk.js.map": "/image-stock/static/js/2.baf51eaa.chunk.js.map",
+    "index.html": "/image-stock/index.html",
+    "precache-manifest.c1130ba6860731a888c16ef656821c57.js": "/image-stock/precache-manifest.c1130ba6860731a888c16ef656821c57.js",
+    "service-worker.js": "/image-stock/service-worker.js",
+    "static/css/main.73f3c5b6.chunk.css.map": "/image-stock/static/css/main.73f3c5b6.chunk.css.map",
+    "static/js/2.baf51eaa.chunk.js.LICENSE.txt": "/image-stock/static/js/2.baf51eaa.chunk.js.LICENSE.txt",
+    "static/media/cam_dark.svg": "/image-stock/static/media/cam_dark.97c69532.svg",
+    "static/media/cam_white.svg": "/image-stock/static/media/cam_white.1182b96f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.97773ce4.js",
+    "static/js/runtime-main.b9510ea7.js",
     "static/js/2.baf51eaa.chunk.js",
     "static/css/main.73f3c5b6.chunk.css",
-    "static/js/main.cfd67fb5.chunk.js"
+    "static/js/main.983d3fe7.chunk.js"
   ]
 }
